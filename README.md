@@ -1,4 +1,7 @@
 playground
 ==========
 
-playground for newbie myself
+playground for newbies
+sharing solutions
+learn from others
+
